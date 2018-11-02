@@ -1,7 +1,7 @@
 toggl_client
 ============
 
-Download a projects summary from Toggl in CSV format.
+Downloads a projects summary from Toggl in CSV format.
 
 Installation
 ------------
