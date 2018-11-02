@@ -37,11 +37,12 @@ setup(name='toggl_projects',
       license='MIT',
       scripts=['bin/toggl_projects'],
       packages=['toggl_projects'],
-      install_requires=[
-          'TogglPy',
-      ],
+      # install_requires=[
+      #     'TogglPy',
+      # ],
       dependency_links=[
-          'https://github.com/morlandi/TogglPy.git',
+          #'https://github.com/morlandi/TogglPy.git',
+          'https://github.com/morlandi/toggl_projects/archive/master.zip',
       ],
       include_package_data=False,
       zip_safe=False)
