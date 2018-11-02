@@ -21,7 +21,7 @@ history = open('HISTORY.rst').read().replace('.. :changelog:', '')
 
 setup(name='toggl_projects',
       version=version,
-      description='Script to sync db and/or data from remote host',
+      description='Script to download a projects summary from Toggl in CSV format',
       long_description=readme + '\n\n' + history,
       classifiers=[
           'Development Status :: 3 - Alpha',
