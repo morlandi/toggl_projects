@@ -8,7 +8,7 @@ import csv
 import sys
 import json
 from toggl.TogglPy import Toggl
-from config_file import read_config_file
+from .config_file import read_config_file
 
 
 def print_title(title):
