@@ -1,0 +1,2 @@
+#TogglPy==0.1.1
+git+https://github.com/morlandi/TogglPy.git

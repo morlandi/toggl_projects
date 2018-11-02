@@ -6,6 +6,14 @@ Download a projects summary from Toggl in CSV format.
 Installation
 ------------
 
+Manually install TogglPy
+
+::
+
+    pip install git+https://github.com/morlandi/TogglPy.git
+
+then,
+
 ::
 
     pip install git+https://github.com/morlandi/toggl_projects
